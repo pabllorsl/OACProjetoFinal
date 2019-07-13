@@ -1,5 +1,12 @@
 # OACProjetoFinal
 
+Integrantes do projeto:
+
+* [Lucas Barreto](https://github.com/lucasmfb)
+* [Pabllo Lima](https://github.com/pabllorsl)
+* [Wellington Araújo](https://github.com/wellington7)
+* [Victor Miranda](https://github.com/Victru)
+
 Código em [Assembly](https://github.com/pabllorsl/OACProjetoFinal/blob/master/codigos/MaioridadeCivil.s) comentado.
 
 Código em linguagem de máquina:
